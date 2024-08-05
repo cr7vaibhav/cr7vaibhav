@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning Spring and React<br> I’m looking for help with web development and open-source projects<br> Ask me about computer hardware , football and anime<br>
+ I’m currently learning Spring, Quarkus and React<br> I’m looking for help with web development and open-source projects<br> Ask me about computer hardware , football and anime<br>
 
 
 # 💻 Tech Stack:
